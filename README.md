@@ -13,7 +13,7 @@ Este análisis fue realizado como entregable de la materia de Introducción al A
 
 ## 📁 Contenido
 
-- `notebook/regresion_california_housing.ipynb`: Notebook principal con el análisis.
+- `regresion_california_housing.ipynb`: Notebook principal con el análisis.
 - `requirements.txt`: Paquetes utilizados.
 - `README.md`: Este archivo.
 
